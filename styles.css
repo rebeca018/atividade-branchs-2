@@ -51,14 +51,14 @@ img {
 .pesquisa input {
     padding: 10px 15px; 
     font-size: 16px; 
-    border: 1px solid #8faad5; 
+    border: 1px solid #B0FBB0; 
     border-radius: 5px 0 0 5px; 
     outline: none; 
 }
 
 .button-form{
     padding: 10px 15px; 
-    background-color: #af8ed5; 
+    background-color: #e09fdf; 
     border: none; 
     border-radius: 0 5px 5px 0; 
     cursor: pointer;
@@ -74,7 +74,7 @@ img {
 }
 
 .card {
-    background-color: #d1bbeb;
+    background-color: #ebbbe6;
     border-radius: 10px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
     padding: 20px;
@@ -82,13 +82,13 @@ img {
     margin: 20px;
 }
 .card:hover {
-    background-color: #A4B5E0;
+    background-color: #B0FBB0;
     box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.3);
-    color: #d1bbeb;
+    color: #ebbbe6;
 }
 .card h2{
     margin-top: 0;
-    color: #54008d;
+    color: #be009b;
 }
 
 .card p {
@@ -111,7 +111,7 @@ footer {
     justify-content: space-between; 
     align-items: center;            
     padding: 10px 20px;             
-    background-color: #af8ed5;      
+    background-color: #ebbbe6;      
     border-top: 1px solid #ccc;   
     height: 60px;  
 }
@@ -140,7 +140,7 @@ footer div p {
 .button-card{
     color: #fff;
     padding: 10px 15px; 
-    background-color: #af8ed5; 
+    background-color: #ebbbe6; 
     border: none; 
     border-radius: 5px; 
 }
