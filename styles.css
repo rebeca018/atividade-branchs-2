@@ -74,12 +74,12 @@ img {
 }
 
 .card {
-    background-color: #ebbbe6;
-    border-radius: 10px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-    padding: 20px;
-    max-width: 400px;
-    margin: 20px;
+    background-color: #ebbbe6
+    border-radius: 10px
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2)
+    padding: 20px
+    max-width: 400px
+    margin: 20px
 }
 .card:hover {
     background-color: #B0FBB0;
